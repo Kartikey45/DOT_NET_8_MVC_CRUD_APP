@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|c:\\myprojects\\dot_net_8_mvc_crud_app\\studentportal\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|solutionrelative:views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|c:\\myprojects\\dot_net_8_mvc_crud_app\\studentportal\\models\\students\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|solutionrelative:models\\students\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|c:\\myprojects\\dot_net_8_mvc_crud_app\\studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50D88F4-14C6-498F-9606-C01D69F44D18}|StudentPortal.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Models\\Students\\StudentList.cs",
+              "RelativeDocumentMoniker": "Models\\Students\\StudentList.cs",
+              "ToolTip": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Models\\Students\\StudentList.cs",
+              "RelativeToolTip": "Models\\Students\\StudentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:56:24.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:32:08.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T21:33:46.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
