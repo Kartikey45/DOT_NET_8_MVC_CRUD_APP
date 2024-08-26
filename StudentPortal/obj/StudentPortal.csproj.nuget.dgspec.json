@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj": {}
+    "C:\\MyProjects\\dot_net_8_mvc_crud_app\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj": {
+    "C:\\MyProjects\\dot_net_8_mvc_crud_app\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj",
+        "projectUniqueName": "C:\\MyProjects\\dot_net_8_mvc_crud_app\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj",
         "projectName": "StudentPortal",
-        "projectPath": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj",
+        "projectPath": "C:\\MyProjects\\dot_net_8_mvc_crud_app\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\StudentPortal.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\obj\\",
+        "outputPath": "C:\\MyProjects\\dot_net_8_mvc_crud_app\\DOT_NET_8_MVC_CRUD_APP\\StudentPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
